@@ -8,41 +8,38 @@
 
 # To Install node_modules for frontend
 
-- cd Hangman
 - cd client
 - npm install
 
 # To Install node_modules for backend
 
-- cd Hangman
 - cd server
 - npm install
 
 # To start project for frontend on browser
 
-- cd Hangman
 - cd client
 - npm start
 
 # To start server for backend
 
-- cd Hangman
 - cd server
 - npm start
 
 # To check unit test cases for frontend
 
-- cd Hangman
 - cd client
 - npm test
 
 # To check unit test cases for backend
 
-- cd Hangman
 - cd server
 - npm test
 
 # To run on Browser
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+
+# To play Online
+[Click here](https://hangman-game-1.herokuapp.com/) to play the Game
