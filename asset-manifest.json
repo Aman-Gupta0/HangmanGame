@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/HangmanGame/static/js/main.a9173497.js",
+    "static/js/787.c461b4aa.chunk.js": "/HangmanGame/static/js/787.c461b4aa.chunk.js",
+    "index.html": "/HangmanGame/index.html",
+    "main.a9173497.js.map": "/HangmanGame/static/js/main.a9173497.js.map",
+    "787.c461b4aa.chunk.js.map": "/HangmanGame/static/js/787.c461b4aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9173497.js"
+  ]
+}
